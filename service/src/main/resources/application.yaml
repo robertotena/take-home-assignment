@@ -1,0 +1,6 @@
+user-account-service:
+  user-info-api.base-url: "http://localhost:8898"
+  account-info-api.base-url: "http://localhost:8899"
+login-service:
+  host: "localhost"
+  port: 8900
